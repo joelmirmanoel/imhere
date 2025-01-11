@@ -32,7 +32,7 @@ Aplicação feita na trilha ignite da Rocketseat
 
 ```bash
 # clonar repositório
-git clone 
+git clone https://github.com/joelmirmanoel/imhere.git
 
 # entrar na pasta do projeto.
 cd Imhere
