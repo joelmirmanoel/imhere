@@ -48,7 +48,7 @@ Pré-requisitos: npm /yarn
 
 # Autor
 
-Joelmir Silva
+Joelmir Silva.
 
 ## [Linkedin](https://www.linkedin.com/in/joelmir-silva-451052134/)
 
